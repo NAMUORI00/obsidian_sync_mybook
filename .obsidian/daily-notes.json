@@ -1,5 +1,5 @@
 {
-  "template": "",
+  "template": "template/daily_note_template",
   "folder": "daily_note/",
   "autorun": true,
   "format": "하루 노트 - YYYY-MM-DD"
