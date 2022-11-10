@@ -37,14 +37,118 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/글쓰기 템플릿 구조 1.md",
+                "file": "daily_note/하루 노트 - 2022-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a175d9a87ef2aa4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "98f7301e2bd6b649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "년도 별 정리 노트/2017/empty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "369aca9e7391697f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "년도 별 정리 노트/2018/empty 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d34848b9bd7bc3ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "년도 별 정리 노트/2019/empty 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71fa53733fd9e710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "년도 별 정리 노트/2020/empty 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a118276b6df39757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "년도 별 정리 노트/2021/empty 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a417726c90a03f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "년도 별 정리 노트/2022/empty 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87c51e420f920dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스크래핑 별 정리 노트/empty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d7bf2f6d32a5d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/empty.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -110,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/글쓰기 템플릿 구조 1.md",
+                "file": "카테고리 별 정리 노트/empty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/글쓰기 템플릿 구조 1.md",
+                "file": "카테고리 별 정리 노트/empty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/글쓰기 템플릿 구조 1.md"
+                "file": "카테고리 별 정리 노트/empty.md"
               }
             }
           }
@@ -161,13 +265,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f43166999acacf72",
+  "active": "8d7bf2f6d32a5d4f",
   "lastOpenFiles": [
-    "template/daily_note_template.md",
+    "스크래핑 별 정리 노트/empty.md",
+    "년도 별 정리 노트/2022/empty 1.md",
+    "년도 별 정리 노트/2021/empty 1.md",
+    "년도 별 정리 노트/2020/empty 1.md",
+    "년도 별 정리 노트/2019/empty 1.md",
+    "년도 별 정리 노트/2018/empty 1.md",
+    "년도 별 정리 노트/2017/empty.md",
+    "template/empty.md",
     "daily_note/하루 노트 - 2022-11-10.md",
-    "template/글쓰기 템플릿 구조 1.md",
-    "README.md",
-    "daily_note/하루 노트 - 2022-11-09.md",
-    "daily_note/하루노트 2022-11-10.md"
+    "daily_note/하루 노트 - 2022-11-09.md"
   ]
 }
