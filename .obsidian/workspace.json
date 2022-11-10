@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-10.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-10.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-10.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-10.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "cd90e7efcf07b715",
   "lastOpenFiles": [
-    "daily_note/하루 노트 - 2022-11-09.md",
     "daily_note/하루 노트 - 2022-11-10.md",
+    "daily_note/하루 노트 - 2022-11-09.md",
     "template/daily_note_template.md",
     "README.md",
     "daily_note/하루노트 2022-11-10.md"
