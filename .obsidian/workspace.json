@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f43166999acacf72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_note/하루 노트 - 2022-11-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "daily_note/하루 노트 - 2022-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "daily_note/하루 노트 - 2022-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "daily_note/하루 노트 - 2022-11-10.md"
               }
             }
           }
@@ -149,10 +161,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cd90e7efcf07b715",
+  "active": "f43166999acacf72",
   "lastOpenFiles": [
     "daily_note/하루 노트 - 2022-11-09.md",
     "daily_note/하루 노트 - 2022-11-10.md",
+    "template/test.md",
     "README.md",
     "template/daily_note_template.md",
     "daily_note/하루노트 2022-11-10.md"
