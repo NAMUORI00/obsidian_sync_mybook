@@ -7,14 +7,14 @@
 - obsidian-git 플러그인 기능을 통해 push, merge 를 진행합니다.
 	- obsidian-git 플러그인에 대한 정보 [링크](https://github.com/denolehov/obsidian-git)
 
-### Obisidan-git plugin
+### Obisidan-git plugin 에 대한 내용
 ---
 - 옵시디언 커뮤니티 플러그인 중 하나
 - github를 통해 obsidian 에서 제공하는 sync 기능을 유사하게 구현한 플러그인
 - 개인 깃허브에 노트를 push 하여 백업을 진행
 - .obsdian 폴더에 있는 config, plugin 정보도 같이 백업 되므로 설정값도 저장이 가능
 
-#### 장단점, 결론
+#### 플러그인의 장단점, 결론
 --- 
 ##### 장점
 - 유료기능의 sync 기능을 무료로 사용이 가능함
@@ -29,4 +29,8 @@
 #####  결론
 - github 와 연동할 시, public, private 레포에 어떤 식으로 저장할지 유의해야 한다
 - git 레포지토리 연동시 ssh key, github 토큰등이 노출되지 않도록 주의 해야 한다
-- 
+
+
+:::tip  
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).  
+:::
