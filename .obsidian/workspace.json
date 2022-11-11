@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1677f4bffe81bd69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_note/하루 노트 - 2022-11-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd90e7efcf07b715",
             "type": "leaf",
             "state": {
@@ -85,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
+                "file": "daily_note/하루 노트 - 2022-11-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
+                "file": "daily_note/하루 노트 - 2022-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
+                "file": "daily_note/하루 노트 - 2022-11-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md"
+                "file": "daily_note/하루 노트 - 2022-11-11.md"
               }
             }
           }
@@ -211,13 +199,13 @@
   },
   "active": "f6b83ee43c9ef201",
   "lastOpenFiles": [
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
     "template/글쓰기 템플릿 구조 1.md",
     "media/img.png",
     "template/daily_note_template.md",
     "template/empty.md",
     "Untitled 20221111 035804.encrypted",
     "README.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
     "Untitled 20221111 035729.encrypted",
     "카테고리 별 정리 노트/티스토리 글 백업/자료구조/무제파일asdf.md",
     "My To Do list.md"
