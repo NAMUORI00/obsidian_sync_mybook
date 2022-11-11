@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6b83ee43c9ef201",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "media/img.png"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
+                "file": "media/img.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
+                "file": "media/img.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md"
+                "file": "media/img.png"
               }
             }
           }
@@ -197,17 +207,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4ede4dd6547c7e6c",
+  "active": "f6b83ee43c9ef201",
   "lastOpenFiles": [
-    "My To Do list.md",
+    "template/daily_note_template.md",
+    "template/글쓰기 템플릿 구조 1.md",
+    "template/empty.md",
+    "media/img.png",
+    "Untitled 20221111 035804.encrypted",
     "README.md",
-    "daily_note/하루 노트 - 2022-11-11.md",
-    "daily_note/하루 노트 - 2022-11-09.md",
-    "daily_note/하루 노트 - 2022-11-10.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2..md",
     "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
-    "카테고리 별 정리 노트/empty.md",
-    "스크래핑 별 정리 노트/empty.md",
-    "년도 별 정리 노트/2022/empty 1.md"
+    "Untitled 20221111 035729.encrypted",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/무제파일asdf.md",
+    "My To Do list.md"
   ]
 }
