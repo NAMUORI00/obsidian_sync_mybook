@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1c988fb34f89bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ede4dd6547c7e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,28 +186,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "2a175d9a87ef2aa4",
+  "active": "44f0070b7bf5ec69",
   "lastOpenFiles": [
+    "My To Do list.md",
+    "README.md",
+    "daily_note/하루 노트 - 2022-11-11.md",
+    "daily_note/하루 노트 - 2022-11-09.md",
+    "daily_note/하루 노트 - 2022-11-10.md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2..md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
     "카테고리 별 정리 노트/empty.md",
     "스크래핑 별 정리 노트/empty.md",
-    "년도 별 정리 노트/2022/empty 1.md",
-    "년도 별 정리 노트/2021/empty 1.md",
-    "년도 별 정리 노트/2020/empty 1.md",
-    "년도 별 정리 노트/2019/empty 1.md",
-    "년도 별 정리 노트/2018/empty 1.md",
-    "년도 별 정리 노트/2017/empty.md",
-    "template/empty.md",
-    "daily_note/하루 노트 - 2022-11-10.md"
+    "년도 별 정리 노트/2022/empty 1.md"
   ]
 }

@@ -1,0 +1,8 @@
+{
+  "addRibbonIconToCreateNote": true,
+  "expandToWholeLines": true,
+  "confirmPassword": true,
+  "showCopyButton": true,
+  "rememberPassword": true,
+  "rememberPasswordTimeout": 120
+}
