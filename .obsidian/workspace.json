@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d8253df12b93e89b",
+        "id": "41aca250bdc0b972",
         "type": "tabs",
         "children": [
           {
-            "id": "cd90e7efcf07b715",
+            "id": "08a851441b0eee88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f43166999acacf72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_note/하루 노트 - 2022-11-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a175d9a87ef2aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c988fb34f89bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ede4dd6547c7e6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6b83ee43c9ef201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md",
+                "file": "daily_note/하루 노트 - 2022-11-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md",
+                "file": "daily_note/하루 노트 - 2022-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md",
+                "file": "daily_note/하루 노트 - 2022-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-11.md"
+                "file": "daily_note/하루 노트 - 2022-11-14.md"
               }
             }
           }
@@ -197,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f6b83ee43c9ef201",
+  "active": "08a851441b0eee88",
   "lastOpenFiles": [
+    "README.md",
+    "daily_note/하루 노트 - 2022-11-11.md",
     "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
     "template/글쓰기 템플릿 구조 1.md",
     "media/img.png",
     "template/daily_note_template.md",
     "template/empty.md",
     "Untitled 20221111 035804.encrypted",
-    "README.md",
     "Untitled 20221111 035729.encrypted",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/무제파일asdf.md",
-    "My To Do list.md"
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/무제파일asdf.md"
   ]
 }
