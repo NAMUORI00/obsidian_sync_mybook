@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbde3ded365d97c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/데이터베이스와 빅데이터.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md",
+                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/데이터베이스와 빅데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md",
+                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/데이터베이스와 빅데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,8 +174,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md"
+                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/데이터베이스와 빅데이터.md"
               }
+            }
+          },
+          {
+            "id": "1c18750c56248301",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -173,17 +193,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0db7fd9005ba35f2",
+  "active": "fbde3ded365d97c3",
   "lastOpenFiles": [
+    "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md",
+    "카테고리 별 정리 노트/대학공부/컴퓨터일반/데이터베이스와 빅데이터.md",
+    "개인 비밀 노트/개인 링크 관련 저장.encrypted",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
     "daily_note/하루 노트 - 2022-11-11.md",
     "media/img.png",
     "template/daily_note_template.md",
     "template/글쓰기 템플릿 구조 1.md",
     "template/글쓰기 템플릿 구조 2.md",
-    "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md",
-    "진행중인 프로젝트 별 정리 노트/인공지능 프로젝트/CNN 모델을 활용한 마스크 착용 감지.md",
-    "daily_note/하루 노트 - 2022-11-14.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
-    "template/empty.md"
+    "진행중인 프로젝트 별 정리 노트/인공지능 프로젝트/CNN 모델을 활용한 마스크 착용 감지.md"
   ]
 }
