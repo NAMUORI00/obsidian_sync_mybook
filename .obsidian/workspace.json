@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "576e23931a700953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-15.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08a851441b0eee88",
+  "active": "576e23931a700953",
   "lastOpenFiles": [
+    "My To Do list.md",
+    "conflict-files-obsidian-git.md",
+    "daily_note/하루 노트 - 2022-11-15.md",
     "daily_note/하루 노트 - 2022-11-14.md",
     "README.md",
     "daily_note/하루 노트 - 2022-11-11.md",
     "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
     "template/글쓰기 템플릿 구조 1.md",
     "media/img.png",
-    "template/daily_note_template.md",
-    "template/empty.md",
-    "Untitled 20221111 035804.encrypted",
-    "Untitled 20221111 035729.encrypted"
+    "template/daily_note_template.md"
   ]
 }
