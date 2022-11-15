@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-14.md",
+                "file": "daily_note/하루 노트 - 2022-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-14.md",
+                "file": "daily_note/하루 노트 - 2022-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-14.md",
+                "file": "daily_note/하루 노트 - 2022-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-14.md"
+                "file": "daily_note/하루 노트 - 2022-11-15.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "08a851441b0eee88",
   "lastOpenFiles": [
+    "daily_note/하루 노트 - 2022-11-14.md",
     "README.md",
     "daily_note/하루 노트 - 2022-11-11.md",
     "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
@@ -146,7 +147,6 @@
     "template/daily_note_template.md",
     "template/empty.md",
     "Untitled 20221111 035804.encrypted",
-    "Untitled 20221111 035729.encrypted",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/무제파일asdf.md"
+    "Untitled 20221111 035729.encrypted"
   ]
 }
