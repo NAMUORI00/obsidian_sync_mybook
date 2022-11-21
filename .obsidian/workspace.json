@@ -4,30 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "41aca250bdc0b972",
+        "id": "d8253df12b93e89b",
         "type": "tabs",
         "children": [
           {
-            "id": "08a851441b0eee88",
+            "id": "f6b83ee43c9ef201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md",
+                "file": "daily_note/하루 노트 - 2022-11-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "576e23931a700953",
+            "id": "2fb746d33a549caf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ba3797e7bab5ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/글쓰기 템플릿 구조 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0db7fd9005ba35f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbde3ded365d97c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_note/하루 노트 - 2022-11-21.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md",
+                "file": "daily_note/하루 노트 - 2022-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md",
+                "file": "daily_note/하루 노트 - 2022-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,8 +174,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md"
+                "file": "daily_note/하루 노트 - 2022-11-21.md"
               }
+            }
+          },
+          {
+            "id": "1c18750c56248301",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -144,17 +193,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08a851441b0eee88",
+  "active": "fbde3ded365d97c3",
   "lastOpenFiles": [
-    "daily_note/하루 노트 - 2022-11-15.md",
-    "My To Do list.md",
-    "conflict-files-obsidian-git.md",
-    "daily_note/하루 노트 - 2022-11-14.md",
-    "README.md",
-    "daily_note/하루 노트 - 2022-11-11.md",
+    "daily_note/하루 노트 - 2022-11-18.md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2..md",
     "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
-    "template/글쓰기 템플릿 구조 1.md",
+    "카테고리 별 정리 노트/대학공부/컴퓨터일반/데이터베이스와 빅데이터.md",
+    "카테고리 별 정리 노트/대학공부/컴퓨터일반/알고리즘.md",
+    "개인 비밀 노트/개인 링크 관련 저장.encrypted",
+    "daily_note/하루 노트 - 2022-11-11.md",
     "media/img.png",
-    "template/daily_note_template.md"
+    "template/daily_note_template.md",
+    "template/글쓰기 템플릿 구조 1.md"
   ]
 }
