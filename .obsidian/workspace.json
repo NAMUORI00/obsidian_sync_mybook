@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "eda1263867ff94f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "576e23931a700953",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-15.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -144,13 +157,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08a851441b0eee88",
+  "active": "eda1263867ff94f6",
   "lastOpenFiles": [
+    "daily_note/하루 노트 - 2022-11-15.md",
     "daily_note/하루 노트 - 2022-11-09.md",
     "daily_note/하루 노트 - 2022-11-10.md",
     "daily_note/하루 노트 - 2022-11-11.md",
     "daily_note/하루 노트 - 2022-11-14.md",
-    "daily_note/하루 노트 - 2022-11-15.md",
     "daily_note/하루 노트 - 2022-11-18.md",
     "My To Do list.md",
     "conflict-files-obsidian-git.md",
