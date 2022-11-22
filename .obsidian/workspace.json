@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md",
+                "file": "daily_note/하루 노트 - 2022-11-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md",
+                "file": "daily_note/하루 노트 - 2022-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md",
+                "file": "daily_note/하루 노트 - 2022-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-18.md"
+                "file": "daily_note/하루 노트 - 2022-11-15.md"
               }
             }
           }
@@ -146,15 +146,15 @@
   },
   "active": "08a851441b0eee88",
   "lastOpenFiles": [
+    "daily_note/하루 노트 - 2022-11-09.md",
+    "daily_note/하루 노트 - 2022-11-10.md",
+    "daily_note/하루 노트 - 2022-11-11.md",
+    "daily_note/하루 노트 - 2022-11-14.md",
     "daily_note/하루 노트 - 2022-11-15.md",
+    "daily_note/하루 노트 - 2022-11-18.md",
     "My To Do list.md",
     "conflict-files-obsidian-git.md",
-    "daily_note/하루 노트 - 2022-11-14.md",
     "README.md",
-    "daily_note/하루 노트 - 2022-11-11.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
-    "template/글쓰기 템플릿 구조 1.md",
-    "media/img.png",
-    "template/daily_note_template.md"
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md"
   ]
 }
