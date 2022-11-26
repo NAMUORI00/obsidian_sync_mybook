@@ -23,8 +23,12 @@
             "id": "576e23931a700953",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily_note/하루 노트 - 2022-11-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily_note/하루 노트 - 2022-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily_note/하루 노트 - 2022-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily_note/하루 노트 - 2022-11-26.md"
+              }
             }
           }
         ],
@@ -141,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "44f0070b7bf5ec69",
+  "active": "576e23931a700953",
   "lastOpenFiles": [
-    "My To Do list.md",
-    "conflict-files-obsidian-git.md",
-    "daily_note/하루 노트 - 2022-11-15.md",
-    "daily_note/하루 노트 - 2022-11-14.md",
-    "README.md",
+    "진행중인 프로젝트 별 정리 노트/인공지능 프로젝트/CNN 모델을 활용한 마스크 착용 감지.md",
+    "daily_note/하루 노트 - 2022-11-16.md",
+    "daily_note/하루 노트 - 2022-11-09.md",
+    "daily_note/하루 노트 - 2022-11-10.md",
     "daily_note/하루 노트 - 2022-11-11.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
-    "template/글쓰기 템플릿 구조 1.md",
-    "media/img.png",
-    "template/daily_note_template.md"
+    "daily_note/하루 노트 - 2022-11-14.md",
+    "daily_note/하루 노트 - 2022-11-15.md",
+    "conflict-files-obsidian-git.md",
+    "My To Do list.md",
+    "README.md"
   ]
 }
