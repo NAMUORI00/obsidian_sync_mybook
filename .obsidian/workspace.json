@@ -20,19 +20,19 @@
             }
           },
           {
-            "id": "eda1263867ff94f6",
+            "id": "576e23931a700953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-25.md",
+                "file": "daily_note/하루 노트 - 2022-11-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "576e23931a700953",
+            "id": "a715adacc9ac2c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,11 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "daily_note/하루 노트 - 2022-11-26.md",
-=======
-                "file": "daily_note/하루 노트 - 2022-11-25.md",
->>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "daily_note/하루 노트 - 2022-11-26.md",
-=======
-                "file": "daily_note/하루 노트 - 2022-11-25.md",
->>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "daily_note/하루 노트 - 2022-11-26.md"
-=======
-                "file": "daily_note/하루 노트 - 2022-11-25.md"
->>>>>>> origin/main
               }
             }
           }
@@ -173,31 +161,17 @@
     "direction": "horizontal",
     "width": 300
   },
-<<<<<<< HEAD
-  "active": "576e23931a700953",
+  "active": "a715adacc9ac2c2a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "daily_note/하루 노트 - 2022-11-26.md",
     "진행중인 프로젝트 별 정리 노트/인공지능 프로젝트/CNN 모델을 활용한 마스크 착용 감지.md",
     "daily_note/하루 노트 - 2022-11-16.md",
-=======
-  "active": "eda1263867ff94f6",
-  "lastOpenFiles": [
-    "daily_note/하루 노트 - 2022-11-15.md",
->>>>>>> origin/main
     "daily_note/하루 노트 - 2022-11-09.md",
     "daily_note/하루 노트 - 2022-11-10.md",
     "daily_note/하루 노트 - 2022-11-11.md",
     "daily_note/하루 노트 - 2022-11-14.md",
-<<<<<<< HEAD
     "daily_note/하루 노트 - 2022-11-15.md",
-    "conflict-files-obsidian-git.md",
-    "My To Do list.md",
-    "README.md"
-=======
-    "daily_note/하루 노트 - 2022-11-18.md",
-    "My To Do list.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md"
->>>>>>> origin/main
+    "My To Do list.md"
   ]
 }
