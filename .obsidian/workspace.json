@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-25.md",
+                "file": "daily_note/하루 노트 - 2022-11-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-25.md",
+                "file": "daily_note/하루 노트 - 2022-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-25.md",
+                "file": "daily_note/하루 노트 - 2022-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-11-25.md"
+                "file": "daily_note/하루 노트 - 2022-11-28.md"
               }
             }
           }
@@ -159,6 +159,7 @@
   },
   "active": "eda1263867ff94f6",
   "lastOpenFiles": [
+    "daily_note/하루 노트 - 2022-11-25.md",
     "daily_note/하루 노트 - 2022-11-15.md",
     "daily_note/하루 노트 - 2022-11-09.md",
     "daily_note/하루 노트 - 2022-11-10.md",
@@ -167,7 +168,6 @@
     "daily_note/하루 노트 - 2022-11-18.md",
     "My To Do list.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md"
+    "README.md"
   ]
 }
