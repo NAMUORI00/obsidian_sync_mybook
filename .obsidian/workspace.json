@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "5d79d587da38a289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/대학공부/정보보안/침입차단시스템.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "576e23931a700953",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-12.md",
+                "file": "카테고리 별 정리 노트/대학공부/정보보안/침입차단시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-12.md",
+                "file": "카테고리 별 정리 노트/대학공부/정보보안/침입차단시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-12.md"
+                "file": "카테고리 별 정리 노트/대학공부/정보보안/침입차단시스템.md"
               }
             }
           }
@@ -181,8 +193,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "825ac469aa971567",
+  "active": "5d79d587da38a289",
   "lastOpenFiles": [
+    "daily_note/하루 노트 - 2022-12-12.md",
     "카테고리 별 정리 노트/티스토리 글 백업/자료구조/1. 자료구조와 알고리즘.md",
     "년도별 데일리 노트 정리/2022년 11월/하루 노트 - 2022-11-09.md",
     "카테고리 별 정리 노트/대학공부/정보보안/침입자.md",
@@ -191,7 +204,6 @@
     "README.md",
     "daily_note/하루 노트 - 2022-12-05.md",
     "카테고리 별 정리 노트/대학공부/정보보안/IP  보안.md",
-    "년도별 데일리 노트 정리/2022년 11월/하루 노트 - 2022-11-29.md",
-    "년도별 데일리 노트 정리/2022년 11월/하루 노트 - 2022-11-28.md"
+    "년도별 데일리 노트 정리/2022년 11월/하루 노트 - 2022-11-29.md"
   ]
 }
