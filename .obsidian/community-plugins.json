@@ -7,5 +7,6 @@
   "obsidian-plugin-toc",
   "obsidian-enhancing-export",
   "obsidian-pandoc",
-  "editing-toolbar"
+  "editing-toolbar",
+  "url-into-selection"
 ]
