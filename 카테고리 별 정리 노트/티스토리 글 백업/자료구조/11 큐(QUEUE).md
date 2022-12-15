@@ -1,0 +1,200 @@
+
+### 큐(QUEUE)
+
+**먼저 들어온 데이터가 먼저 나가는 자료구조(스택과 순서가 반대된다)**
+
+큐의 추상적 구조
+
+-   객체 : 0개 이상의 요소들로 구성된 선형 리스트
+-   연산 :
+    -   Creat(max_size) ::= 최대 크기가 max_size인 공백 큐를 생성
+    -   init(q) ::= 큐를 초기화
+    -   is_empty(q) ::= if (size == 0) then return true; else return false;
+    -   is_full(q) ::= if (size == max_size) then return true; else return false;
+    -   enqueue(q, e) ::= if (is_full(q)) queue_full 오류; else q의 끝에 e를 추가한다.
+    -   dequeue(q) ::= if( is_empty(q)) queue_empty 오류; else q의 맨앞에 있는 e를 제거하여 반환한다.
+    -   peek(q) ::= if (is_empty(q)) queue_empty 오류; else q의 맨앞에 있는 e를 읽어서 반환한다.
+
+![](media/img-34.png)
+
+큐의 삽입,삭제 연산
+
+### 응용 용도
+
+-   시뮬레이션 대기열(공항 비행기, 은행 대기열)
+-   통신에서의 데이터 패킷들의 모델링에 이용
+-   프린터와 컴퓨터 사이의 버퍼링
+-   간접적응용  
+    -   스택과 비슷하게 이용
+    -   많은 알고리즘에서 사용
+
+## 선형 큐(Liner Queues)
+
+![](media/img-40.png)
+
+선형 큐 예시
+
+> 큐에서는 스택과 다르게 삽입된 데이터는 그후 삽입을 위해서는 요소를 이동시켜야 한다.
+
+그림 4번째에서는 이미지가 약간 다른데 front는 7 앞을 가르켜야하고 rear는 그뒤를 가르켜야 한다.
+
+### C로 큐(queue) 타입 구현하기
+
+
+```
+#include <stdio.h>
+#include <stdlib.h>
+#define MAX_QUEUE_SIZE 5
+
+  
+  
+
+//queue 구조체
+typedef int element;
+typedef struct {
+	int front;
+	int rear;
+	element data[MAX_QUEUE_SIZE];
+} QueueType;
+
+//에러 메세지 출력
+void error(const char* message) {
+	fprintf(stderr, "%s\n", message);
+	exit(1);
+}
+
+  
+
+//초기화
+
+void init_queue(QueueType* q) {
+	q->front = q->rear = 0;
+}
+
+  
+
+int is_full(QueueType* q) {
+	return ((q->rear + 1) % MAX_QUEUE_SIZE == q->front);
+}
+
+int is_empty(QueueType* q) {
+	return (q->front == q->rear);
+}
+
+// 원형 QUEUE 타입 출력 함수
+void queue_print(QueueType* q) {
+	printf("QUEUE(front=%d rear = %d) =", q->front, q->rear);
+	if (!is_empty(q)) {
+		int i = q->front;
+		do {
+			i = (i + 1) % (MAX_QUEUE_SIZE);
+			printf("%d | ", q->data[i]);
+			if (i == q->rear)
+			break;
+		} while (i != q->front);
+	}
+	printf("\n");
+}
+
+  
+  
+
+void enqueue(QueueType* q, int item) {
+
+if (is_full(q)) {
+
+error("큐가 포화 상태입니다.");
+
+}
+
+q->rear = (q->rear + 1) % MAX_QUEUE_SIZE;
+
+q->data[q->rear] = item;
+
+}
+
+  
+
+element dequeue(QueueType* q) {
+	if (is_empty(q)) {
+		error("큐가 공백상태입니다");
+	}
+	q->front = (q->front + 1) % MAX_QUEUE_SIZE;
+	return q->data[q->front];
+}
+
+
+int main(void) {
+	QueueType queue;
+	int element;
+	init_queue(&queue);
+	printf("데이터 추가 단계\n");
+	
+	while (!is_full(&queue)) {
+		printf("정수를 입력하세요 :");
+		scanf_s("%d", &element);
+		enqueue(&queue, element);
+		queue_print(&queue);
+	}
+	
+	printf("큐는 포화상태 입니다.\n\n");
+	printf("데이터 삭제 단계\n");
+	
+	while (!is_empty(&queue)) {
+		element = dequeue(&queue);
+		printf("꺼내진 정수 : %d\n", element);
+		queue_print(&queue);
+	}
+	
+	printf("큐는 공백상태입니다.\n");
+	return 0;
+}
+
+```
+
+
+
+## 선형 큐의 응용 : 작업 스케쥴링
+
+![](media/img-33.png)
+
+작업 스케쥴링 과 큐의 연관성
+
+---
+
+## 원형 큐(Circular Queues)
+
+![](media/img-39.png)
+
+원형 큐 이미지
+
+![](media/img-37.png)
+
+원형 큐의 구조 이미지
+
+큐의 전단과 후단을 관리 하기 위한 2개의 변수 필요
+
+-   front : 첫번째 요소 하나 앞의 인덱스
+-   rear : 마지막 요소의 인덱스
+
+선형 큐에 비해 포인터를 다시 앞쪽으로 끌고와서 큐 내용 삭제로 포인터가 뒤로 밀려나는게 없어져서, 메모리 용량을 효율적으로 사용할수 있음
+
+![](media/img-36.png)
+
+원형 큐 동작 구조
+
+![](media/img-35.png)
+
+공백 상태, 포화상태 비교 구문
+
+M은 현재 큐의 크기값
+
+### C를 이용한 원형큐 구현
+
+더보기
+
+## 큐의 응용 : 버퍼
+
+![](media/img-38.png)
+
+큐와 버퍼 비교이미지

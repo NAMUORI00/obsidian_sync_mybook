@@ -5,5 +5,8 @@
   "obsidian-kanban",
   "meld-encrypt",
   "obsidian-plugin-toc",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "obsidian-pandoc",
+  "editing-toolbar",
+  "url-into-selection"
 ]

@@ -11,24 +11,16 @@
             "id": "08a851441b0eee88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_note/하루 노트 - 2022-11-15.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "576e23931a700953",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily_note/하루 노트 - 2022-11-26.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -42,9 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "509d4822ec98640f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-15.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-15.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -161,8 +165,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a715adacc9ac2c2a",
+  "active": "509d4822ec98640f",
   "lastOpenFiles": [
+    "daily_note/하루 노트 - 2022-12-15.md",
     "daily_note/하루 노트 - 2022-11-27.md",
     "daily_note/하루 노트 - 2022-11-26.md",
     "conflict-files-obsidian-git.md",
@@ -171,7 +176,6 @@
     "daily_note/하루 노트 - 2022-11-09.md",
     "daily_note/하루 노트 - 2022-11-10.md",
     "daily_note/하루 노트 - 2022-11-11.md",
-    "daily_note/하루 노트 - 2022-11-14.md",
-    "daily_note/하루 노트 - 2022-11-15.md"
+    "daily_note/하루 노트 - 2022-11-14.md"
   ]
 }
