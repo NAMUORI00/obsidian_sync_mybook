@@ -39,12 +39,28 @@
             "id": "509d4822ec98640f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/19 우선순위 큐, 힙.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50b34af1135579aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily_note/하루 노트 - 2022-12-15.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily_note/하루 노트 - 2022-12-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily_note/하루 노트 - 2022-12-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily_note/하루 노트 - 2022-12-15.md"
+              }
             }
           }
         ],
@@ -157,17 +177,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "509d4822ec98640f",
+  "active": "50b34af1135579aa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "daily_note/하루 노트 - 2022-12-15.md",
-    "daily_note/하루 노트 - 2022-11-27.md",
-    "daily_note/하루 노트 - 2022-11-26.md",
-    "진행중인 프로젝트 별 정리 노트/인공지능 프로젝트/CNN 모델을 활용한 마스크 착용 감지.md",
-    "daily_note/하루 노트 - 2022-11-16.md",
-    "daily_note/하루 노트 - 2022-11-09.md",
-    "daily_note/하루 노트 - 2022-11-10.md",
-    "daily_note/하루 노트 - 2022-11-11.md",
-    "daily_note/하루 노트 - 2022-11-14.md"
+    "media/img-124.png",
+    "media/img-121.png",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/20 그래프.md",
+    "media/img-113.png",
+    "media/img-115.png",
+    "media/img-118.png",
+    "media/img-120.png",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/19 우선순위 큐, 힙.md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/18 트리 연산.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
