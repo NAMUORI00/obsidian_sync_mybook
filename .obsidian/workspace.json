@@ -53,14 +53,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-15.md",
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/20 그래프.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04dae25ad8b6c87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/20 그래프.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "810b1743278ce9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/20 그래프.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24b9f76bde864770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-22-알고리즘의 성능 분석.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-15.md",
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-22-알고리즘의 성능 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-15.md",
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-22-알고리즘의 성능 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily_note/하루 노트 - 2022-12-15.md"
+                "file": "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-22-알고리즘의 성능 분석.md"
               }
             }
           }
@@ -177,17 +213,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "50b34af1135579aa",
+  "active": "24b9f76bde864770",
   "lastOpenFiles": [
-    "media/img-124.png",
-    "media/img-121.png",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/20 그래프.md",
-    "media/img-113.png",
-    "media/img-115.png",
-    "media/img-118.png",
-    "media/img-120.png",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/19 우선순위 큐, 힙.md",
-    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/18 트리 연산.md",
-    "conflict-files-obsidian-git.md"
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-29-순환, 반복.md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-08-자료형, 추상 자료형.md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-22-알고리즘의 성능 분석.md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-11-01-배열.md",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/2022-10-01-자료구조와 알고리즘.md",
+    "daily_note/하루 노트 - 2022-12-15.md",
+    "assets/images/img-135.png",
+    "카테고리 별 정리 노트/티스토리 글 백업/자료구조/13 연결 리스트 (수정 필요).md",
+    "template/블로그 글 정보 템플릿.md",
+    "진행중인 프로젝트 별 정리 노트/인공지능 프로젝트/CNN 모델을 활용한 마스크 착용 감지.md"
   ]
 }

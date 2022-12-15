@@ -15,7 +15,7 @@
     -   dequeue(q) ::= if( is_empty(q)) queue_empty 오류; else q의 맨앞에 있는 e를 제거하여 반환한다.
     -   peek(q) ::= if (is_empty(q)) queue_empty 오류; else q의 맨앞에 있는 e를 읽어서 반환한다.
 
-![](media/img-34.png)
+![](assets/images/img-34.png)
 
 큐의 삽입,삭제 연산
 
@@ -30,7 +30,7 @@
 
 ## 선형 큐(Liner Queues)
 
-![](media/img-40.png)
+![](assets/images/img-40.png)
 
 선형 큐 예시
 
@@ -156,7 +156,7 @@ int main(void) {
 
 ## 선형 큐의 응용 : 작업 스케쥴링
 
-![](media/img-33.png)
+![](assets/images/img-33.png)
 
 작업 스케쥴링 과 큐의 연관성
 
@@ -164,11 +164,11 @@ int main(void) {
 
 ## 원형 큐(Circular Queues)
 
-![](media/img-39.png)
+![](assets/images/img-39.png)
 
 원형 큐 이미지
 
-![](media/img-37.png)
+![](assets/images/img-37.png)
 
 원형 큐의 구조 이미지
 
@@ -179,11 +179,11 @@ int main(void) {
 
 선형 큐에 비해 포인터를 다시 앞쪽으로 끌고와서 큐 내용 삭제로 포인터가 뒤로 밀려나는게 없어져서, 메모리 용량을 효율적으로 사용할수 있음
 
-![](media/img-36.png)
+![](assets/images/img-36.png)
 
 원형 큐 동작 구조
 
-![](media/img-35.png)
+![](assets/images/img-35.png)
 
 공백 상태, 포화상태 비교 구문
 
@@ -195,6 +195,6 @@ M은 현재 큐의 크기값
 
 ## 큐의 응용 : 버퍼
 
-![](media/img-38.png)
+![](assets/images/img-38.png)
 
 큐와 버퍼 비교이미지

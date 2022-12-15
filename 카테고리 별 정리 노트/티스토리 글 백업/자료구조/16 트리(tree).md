@@ -2,7 +2,7 @@
 
 계층적인 구조를 나타내는 자료구조
 
-![](media/img-77.png)
+![](assets/images/img-77.png)
 
 맨위를 루트노드, 아래를 서브트리
 
@@ -16,21 +16,21 @@ ex)
 
 ### 결정트리
 
-![](media/img-72.png)
+![](assets/images/img-72.png)
 
 ## 트리에서의 용어
 
-![](media/img-78.png)
+![](assets/images/img-78.png)
 
 트리용어(1)
 
-![](media/img-75.png)
+![](assets/images/img-75.png)
 
 트리용어 (2)
 
 ## 트리의 종류
 
-![](media/img-71.png)
+![](assets/images/img-71.png)
 
 이진트리는 차수가 2이하이며, 일반트리는 제각각인 느낌
 
@@ -44,7 +44,7 @@ ex)
 -   모든 노드의 차수가 2 이하가 된다 - 구현이 편리함
 -   이진 트리에는 서브트리 간의 순서가 존재
 
-![](media/img-67.png)
+![](assets/images/img-67.png)
 
 이진 트리 구조
 
@@ -52,27 +52,27 @@ ex)
 
 노드의 개수가 n 개이면 간선(Edge)의 개수는 n-1개
 
-![](media/img-70.png)
+![](assets/images/img-70.png)
 
 노드(n개) 간선(n-1개)
 
 높이가 h인 이진 트리의 경우, 최소 h개의 노드를 가지며 최대 2^h-1개의 노드를 가진다.
 
-![](media/img-65.png)
+![](assets/images/img-65.png)
 
-![](media/img-73.png)
+![](assets/images/img-73.png)
 
 ### 이진 트리의 분류
 
-![](media/img-76.png)
+![](assets/images/img-76.png)
 
 #### 포화 이진 트리
 
-![](media/img-74.png)
+![](assets/images/img-74.png)
 
 #### 완전 이진 트리
 
-![](media/img-68.png)
+![](assets/images/img-68.png)
 
 왼쪽에서 오른쪽 순서로 채워져 있는걸 알아야 한다.
 
@@ -84,7 +84,7 @@ ex)
 
 #### 배열표현
 
-![](media/img-66.png)
+![](assets/images/img-66.png)
 
 **배열 표현에서 부모와 자식 인덱스 관계**
 
@@ -94,7 +94,7 @@ ex)
 
 #### 링크표현
 
-![](media/img-69.png)
+![](assets/images/img-69.png)
 
 링크를 이용한 표현 방법
 
