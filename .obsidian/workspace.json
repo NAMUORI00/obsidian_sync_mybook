@@ -39,12 +39,8 @@
             "id": "509d4822ec98640f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,10 +159,10 @@
   },
   "active": "509d4822ec98640f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "daily_note/하루 노트 - 2022-12-15.md",
     "daily_note/하루 노트 - 2022-11-27.md",
     "daily_note/하루 노트 - 2022-11-26.md",
-    "conflict-files-obsidian-git.md",
     "진행중인 프로젝트 별 정리 노트/인공지능 프로젝트/CNN 모델을 활용한 마스크 착용 감지.md",
     "daily_note/하루 노트 - 2022-11-16.md",
     "daily_note/하루 노트 - 2022-11-09.md",
